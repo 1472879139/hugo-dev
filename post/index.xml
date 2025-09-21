@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>浮生醉清风</copyright>
-        <lastBuildDate>Thu, 18 Sep 2025 15:42:44 +0800</lastBuildDate><atom:link href="https://1472879139.github.io/hugo-dev/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 21 Sep 2025 15:36:45 +0800</lastBuildDate><atom:link href="https://1472879139.github.io/hugo-dev/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>图片展示测试</title>
         <link>https://1472879139.github.io/hugo-dev/p/%E5%9B%BE%E7%89%87%E5%B1%95%E7%A4%BA%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Sun, 31 Aug 2025 01:13:02 +0800</pubDate>
@@ -36,13 +36,66 @@
 </description>
         </item>
         <item>
+        <title>好用的网站分享</title>
+        <link>https://1472879139.github.io/hugo-dev/p/%E5%A5%BD%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB/</link>
+        <pubDate>Sun, 21 Sep 2025 14:29:06 +0800</pubDate>
+        
+        <guid>https://1472879139.github.io/hugo-dev/p/%E5%A5%BD%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB/</guid>
+        <description>&lt;img src="https://game.mhcdkey.com/picture/wenda/20230210/c2fq13fgyzf.jpg" alt="Featured image of post 好用的网站分享" /&gt;&lt;h1 id=&#34;好用的网站分享&#34;&gt;好用的网站分享
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://t2tj8ozvk.sabkt.gdipper.com/picture/d4cd60410847e2176fffaaed7be9eaae.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;分享一些科研、实用工具、娱乐等相关的免费网站。&lt;/p&gt;
+&lt;h2 id=&#34;科研网站&#34;&gt;科研网站
+&lt;/h2&gt;&lt;p&gt;1.&lt;a class=&#34;link&#34; href=&#34;https://www.latexlive.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;在线LaTeX公式编辑器-编辑器&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a class=&#34;link&#34; href=&#34;https://www.processon.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ProcessOn思维导图流程图-在线画思维导图流程图_在线作图实时协作&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a class=&#34;link&#34; href=&#34;http://459.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;文献部落 - 一站搞定文献下载 - 谷歌学术&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;a class=&#34;link&#34; href=&#34;https://github.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;a class=&#34;link&#34; href=&#34;https://www.kaggle.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Kaggle(项目、云端GPU)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6.&lt;a class=&#34;link&#34; href=&#34;https://www.remove.bg/zh/upload&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;图片背景消除&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;7.&lt;a class=&#34;link&#34; href=&#34;https://mychandler.bet/chat&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ChandlerAi&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;实用工具网站&#34;&gt;实用工具网站
+&lt;/h2&gt;&lt;p&gt;1.&lt;a class=&#34;link&#34; href=&#34;https://tool.lu/cutout/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;在线抠图 - 在线工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a class=&#34;link&#34; href=&#34;https://docsmall.com/image-crop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;免费在线图片裁剪工具 - docsmall&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a class=&#34;link&#34; href=&#34;https://highlightcode.parryqiu.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;代码在线高亮工具 | 将高亮美化的代码一键粘贴到 Word 或 OneNote 中&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;a class=&#34;link&#34; href=&#34;https://pdf.moyuya.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;摸鱼鸭PDF(MoYuYa)-在线PDF转换工具官网,多功能PDF工具&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5.&lt;a class=&#34;link&#34; href=&#34;https://www.logosc.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;标小智LOGO设计神器 | 公司logo设计在线制作生成器 - 标小智&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;其他&#34;&gt;其他
+&lt;/h2&gt;&lt;p&gt;1.&lt;a class=&#34;link&#34; href=&#34;https://www.100font.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;100font.com - 免费商用字体大全 - 免费字体下载网站&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2.&lt;a class=&#34;link&#34; href=&#34;https://www.qimanbz.com/4k&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;极致4K动漫壁纸_ 超高清动漫壁纸体验 - 奇漫壁纸&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3.&lt;a class=&#34;link&#34; href=&#34;https://www.emojiall.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Emoji 词典,复制,图像,排行榜&amp;hellip;EMOJIALL.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4.&lt;a class=&#34;link&#34; href=&#34;https://www.bzcm88.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;数据测试日记_名字生成器_在线名字生成_自助姓名生成器_网上起名字&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>绪论</title>
         <link>https://1472879139.github.io/hugo-dev/p/%E7%BB%AA%E8%AE%BA/</link>
         <pubDate>Wed, 17 Sep 2025 20:51:56 +0800</pubDate>
         
         <guid>https://1472879139.github.io/hugo-dev/p/%E7%BB%AA%E8%AE%BA/</guid>
         <description>&lt;img src="https://pic3.zhimg.com/v2-dc60ec41d86b0c81703a956889aa89e6_r.jpg" alt="Featured image of post 绪论" /&gt;&lt;h1 id=&#34;绪论&#34;&gt;绪论
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://pic3.zhimg.com/v2-dc60ec41d86b0c81703a956889aa89e6_r.jpg&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://t2tj8ozvk.sabkt.gdipper.com/picture/1E34690D0D83874476E7FC4706DA7D90.jpg&#34;
 	
 	
 	
