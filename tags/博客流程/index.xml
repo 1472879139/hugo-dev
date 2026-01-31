@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>浮生醉清风</copyright>
-        <lastBuildDate>Fri, 30 Jan 2026 21:13:31 +0800</lastBuildDate><atom:link href="https://1472879139.github.io/hugo-dev/tags/%E5%8D%9A%E5%AE%A2%E6%B5%81%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 31 Jan 2026 19:55:29 +0800</lastBuildDate><atom:link href="https://1472879139.github.io/hugo-dev/tags/%E5%8D%9A%E5%AE%A2%E6%B5%81%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>博客文章上传流程</title>
         <link>https://1472879139.github.io/hugo-dev/p/%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%E4%B8%8A%E4%BC%A0%E6%B5%81%E7%A8%8B/</link>
         <pubDate>Thu, 29 Jan 2026 13:29:39 +0800</pubDate>
@@ -53,7 +53,7 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;输入命令&lt;code&gt;hugo server -D&lt;/code&gt;之后打开&lt;code&gt;http://localhost:1313/huogo-dev/&lt;/code&gt;可再网页预览本地的文章内容&lt;/p&gt;
+&lt;p&gt;输入命令&lt;code&gt;hugo server -D&lt;/code&gt;之后打开&lt;code&gt;http://localhost:1313/huogo-dev/&lt;/code&gt;可在网页预览本地的文章内容&lt;/p&gt;
 &lt;h3 id=&#34;4将文章上传到github上挂载&#34;&gt;4.将文章上传到GitHub上挂载
 &lt;/h3&gt;&lt;p&gt;依次通过以下指令：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
